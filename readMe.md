@@ -4,7 +4,11 @@ Projeto oferecido no curso do Alura focado em desenvolver uma página dinâmica 
 
 ## DESKTOP
 
-![image](https://github.com/joaohcorrales/Fokus/assets/90198535/94cc6844-872d-4098-b5b8-4594df9913e7)
+![image](https://github.com/joaohcorrales/Fokus/assets/90198535/fc07da7b-3a3b-4520-983a-e005bef94d22)
+
+![image](https://github.com/joaohcorrales/Fokus/assets/90198535/3d0d7fea-b5a1-4758-ab17-27c19033e369)
+
+![image](https://github.com/joaohcorrales/Fokus/assets/90198535/ada82385-6d27-4d69-98da-24c899b12249)
 
 ## 🔨 Funcionalidades do projeto
 
